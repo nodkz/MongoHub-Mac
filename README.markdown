@@ -1,4 +1,5 @@
 # MongoHub [![stillmaintained](http://stillmaintained.com/bububa/MongoHub-Mac.png)](http://stillmaintained.com/bububa/MongoHub-Mac)
+This repository does not maintained. Maintened fork https://github.com/jeromelebel/MongoHub-Mac
 
 ## What is MongoHub
 **[MongoHub](http://mongohub.todayclose.com/)** is a **[mongodb](http://mongodb.org)** GUI application.
